@@ -5,3 +5,6 @@ y crear las siguientes funciones para el procesamiento de su informacion
 2. funcion que me permita actualizar el horario de atencion.
 3. funcion que me permita eliminar una tienda comercial.
 """
+tiendas=[
+    {}
+]
